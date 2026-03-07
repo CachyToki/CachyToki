@@ -1,4 +1,4 @@
-# FlatPonch  <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/fuuka.png" align="left" width="50">
+# FlatPonch  <img src="https://raw.githubusercontent.com/FlatPonch/FlatPonch/main/fuuka.png" align="left" width="45">
 
 ## 概要 About
 
