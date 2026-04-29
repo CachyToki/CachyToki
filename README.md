@@ -1,4 +1,4 @@
-# CachyToki<img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/imgs/fuuka.png" align="left" width="45">
+# CachyToki<img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/fuuka.png" align="left" width="45">
 
 ## About
 
