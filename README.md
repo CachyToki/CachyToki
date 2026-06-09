@@ -2,10 +2,10 @@
 
 ## About
 
-CachyToki(旧名:FlatPonch)です。
+CachyTokiです。
 WebやLinuxに関する何かをやっています。
 
-Hi, I'm CachyToki. (Formerly known as FlatPonch.)
+Hi, I'm CachyToki.
 I'm working something about Web and Linux.
 
 # Status
