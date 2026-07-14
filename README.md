@@ -21,4 +21,4 @@ I'm working something about Web and Linux.
 [cachytoki.xyz](https://cachytoki.xyz/)
 
 <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/toki_alpha.png" align="left" width="45">
-<img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/speaki_alpha.png" align="left" width="45">
+<img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/speaki_alpha.png" align="left" width="60">
