@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/fuuka.png" align="left" width="45"> CachyToki
+# <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/fuuka.png" align="left" width="45"> CachyToki/TokiCachy
 
 <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/toki_alpha.png" align="left" width="45">
 <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/speaki_alpha.png" align="left" width="60">
@@ -6,10 +6,10 @@
 ## About
 
 CachyTokiです。
-Webに関する何かをやっています。
+いつも興味がある何かをやっています。
 
-Hi, I'm CachyToki.
-I'm working something about Web.
+Hi, I'm TokiCachy.
+I'm working something interested.
 
 # Status
 
