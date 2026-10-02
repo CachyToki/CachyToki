@@ -1,10 +1,6 @@
-# <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/fuuka.png" align="left" width="45"> CachyToki/TokiCachy
-
-<img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/toki_alpha.png" align="left" width="45">
-<img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/speaki_alpha.png" align="left" width="60">
+# <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/toki_alpha.png" align="left" width="45"> <img src="https://raw.githubusercontent.com/CachyToki/CachyToki/main/speaki_alpha.png" align="left" width="60"> CachyToki/TokiCachy
 
 ## About
-
 
 CachyTokiです。
 いつも興味がある何かをやっています。
