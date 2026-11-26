@@ -3,10 +3,10 @@
 ## About
 
 CachyTokiです。
-いつも興味がある何かをやっています。
+私のリポジトリはすべて趣味の範囲です。
 
 Hi, I'm TokiCachy.
-I'm working something interested.
+These repos are all my Hobby.
 
 # Status
 
